@@ -11,11 +11,12 @@ of the obtained prediction, since the test set contains
 To do so, a retrieval mechanism
 based on Deep Local Features is implemented. This solution
 provides a full pipeline composed by three main stages:
-1)A pre-processing and filtering step to
+1) A pre-processing and filtering step to
 deal with constraints imposed by both time and computational
 resources available;
-2)The classification phase has been performed with a ResNet50 model exploiting transfer
+2) The classification phase has been performed with a ResNet50 model exploiting transfer
 learning from ImageNet dataset;
-3)DELF module has been adapted to our specific application with a thresholdbased
+3) DELF module has been adapted to our specific application with a thresholdbased
 decision system for an efficient verification of the predictions.
+
 In the following paper the results will be analyzed.
