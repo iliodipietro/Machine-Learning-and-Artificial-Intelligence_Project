@@ -1,4 +1,4 @@
-#Landmark Recognition
+# Landmark Recognition
 
 Landmark Recognition is a large-scale classification task
 which is raising the interest of machine learners from all
